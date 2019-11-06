@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR" >
+    <head>
+        <title>Unidade 02 - Elemento Head</title>
+        <meta charset="utf-8">
+        
+        <meta name="autor"          content="Anderson Misson"> <!-- Nome de quem fez a página -->
+        <meta name="generator"      content="Brackets"> <!-- Nome do Software que você usou para criar a página -->
+        <meta name="keywords"       content="HTML5, Curso de HTML"><!-- Palavras chaves para achar no buscador -->
+        <meta name="description"    content="Curso de HTML"> <!-- Descrição da Página -->
+        <meta name="application-name"   content="Kotrix"> <!-- Empresa responsavel pela pagina-->
+        
+        <meta http-equiv="refresh"      content="4"> <!-- Atualização da página a cada 4 segundos. obs: é so para teste -->
+        
+        <script>
+            function sorteioNumero() {
+                resultado.innerHTML = Math.random() * 50;
+                            
+            }
+        
+            window.onload = sorteioNumero;
+        </script>
+        
+    </head>
+    <body>
+        <p id="resultado"></p>
+        
+    </body>
+</html>
