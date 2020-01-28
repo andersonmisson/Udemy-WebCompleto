@@ -47,5 +47,6 @@
         <li type = "circle"> 31 - Usando Imagens </li>
         <li type = "circle"> 32 - Alterando alinhamento da Imagem </li>
         <li type = "circle"> 33 - Alinhamento de Imagens </li>
+        <li type = "circle"> 34 - Elementos figure e figcaption </li>
     </ul>
 </ul>
