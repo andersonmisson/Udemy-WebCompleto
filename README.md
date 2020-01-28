@@ -45,5 +45,6 @@
     <li> Unidade 06 - Como Adicionar Imagens</li>
     <ul>
         <li type = "circle"> 31 - Usando Imagens </li>
+        <li type = "circle"> 32 - Alterando alinhamento da Imagem </li>
     </ul>
 </ul>
