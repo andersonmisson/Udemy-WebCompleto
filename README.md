@@ -61,5 +61,6 @@
     <li> Unidade 08 - Como Criar Listas</li>
     <ul>
         <li type = "circle"> 39 - Criação de listas</li>
+        <li type = "circle"> 40 - Criação de sub-listas</li>
     </ul>
 </ul>
