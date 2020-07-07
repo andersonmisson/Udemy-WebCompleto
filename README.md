@@ -65,4 +65,9 @@
         <li type = "circle"> 41 - Criação de menu vertical com listas</li>
         <li type = "circle"> 42 - Criação de menu horizontal</li>
     </ul>
+    <br>
+    <li> Unidade 09 - Novos Elementos Estruturais do HTML5</li>
+    <ul>
+        <li type = "circle"> 33 - Elemento main (principal)</li>
+    </ul>
 </ul>
