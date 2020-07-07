@@ -62,5 +62,6 @@
     <ul>
         <li type = "circle"> 39 - Criação de listas</li>
         <li type = "circle"> 40 - Criação de sub-listas</li>
+        <li type = "circle"> 41 - Criação de menu vertical com listas</li>
     </ul>
 </ul>
