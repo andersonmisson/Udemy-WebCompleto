@@ -69,5 +69,6 @@
     <li> Unidade 09 - Novos Elementos Estruturais do HTML5</li>
     <ul>
         <li type = "circle"> 33 - Elemento main (principal)</li>
+        <li type = "circle"> 34 - Elemento header (cabeçalho)</li>
     </ul>
 </ul>
