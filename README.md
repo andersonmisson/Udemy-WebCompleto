@@ -49,4 +49,9 @@
         <li type = "circle"> 33 - Alinhamento de Imagens </li>
         <li type = "circle"> 34 - Elementos figure e figcaption </li>
     </ul>
+    <br>
+    <li> Unidade 07 - Como Adicionar Links</li>
+    <ul>
+        <li type = "circle"> 35 - Criar um hiperlink.</li>
+    </ul>
 </ul>
