@@ -74,5 +74,6 @@
         <li type = "circle"> 46 - Elemento article</li>
         <li type = "circle"> 47 - Elemento section</li>
         <li type = "circle"> 48 - Elemento aside</li>
+        <li type = "circle"> 49 - Elemento footer</li>
     </ul>
 </ul>
