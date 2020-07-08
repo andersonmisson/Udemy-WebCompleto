@@ -71,5 +71,8 @@
         <li type = "circle"> 43 - Elemento main (principal)</li>
         <li type = "circle"> 44 - Elemento header (cabeçalho)</li>
         <li type = "circle"> 45 - Elemento nav (menu)</li>
+        <li type = "circle"> 46 - Elemento article</li>
+        <li type = "circle"> 47 - Elemento section</li>
+        <li type = "circle"> 48 - Elemento aside</li>
     </ul>
 </ul>
