@@ -76,4 +76,10 @@
         <li type = "circle"> 48 - Elemento aside</li>
         <li type = "circle"> 49 - Elemento footer</li>
     </ul>
+    <br>
+    <li> Unidade 10 - Estrutura e Semântica</li>
+    <ul>
+        <li type = "circle"> 50 - Elemento small</li>
+        <li type = "circle"> 51 - Elemento address</li>
+    </ul>
 </ul>
