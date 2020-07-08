@@ -81,5 +81,6 @@
     <ul>
         <li type = "circle"> 50 - Elemento small</li>
         <li type = "circle"> 51 - Elemento address</li>
+        <li type = "circle"> 52 - Elemento address para ligar para um telefone</li>
     </ul>
 </ul>
