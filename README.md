@@ -92,5 +92,6 @@
     <ul>
         <li type = "circle"> 55 - Criando Sua Primeira Tabela</li>
         <li type = "circle"> 56 - Tabela Semântica</li>
+        <li type = "circle"> 57 - colgroup e col</li>
     </ul>
 </ul>
