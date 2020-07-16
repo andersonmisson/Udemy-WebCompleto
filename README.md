@@ -84,4 +84,13 @@
         <li type = "circle"> 52 - Elemento address para ligar para um telefone</li>
         <li type = "circle"> 53 - Elemento mark</li>
     </ul>
+       <li> Unidade 11 - Projeto Do Curso</li>
+    <ul>
+        <li type = "circle"> 54 - Projeto nº 1</li>
+    </ul>
+       <li> Unidade 12 - Tabelas</li>
+    <ul>
+        <li type = "circle"> 55 - Criando Sua Primeira Tabela</li>
+        <li type = "circle"> 56 - Tabela Semântica</li>
+    </ul>
 </ul>
