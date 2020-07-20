@@ -102,6 +102,7 @@
         <li type = "circle"> 59 - Criação De Formulário Simples</li>
         <li type = "circle"> 60 - Novos input type: tel, email, url</li>
         <li type = "circle"> 61 - Adicionar Campos Requeridos</li>
+        <li type = "circle"> 62 - Adicionar Placeholder e Autofocus</li>
     </ul>
 
 </ul>
