@@ -99,7 +99,8 @@
     <br>
        <li> Unidade 13 - Formulários</li>
     <ul>
-        <li type = "circle"> 59  - Criação De Formulário Simples</li>
+        <li type = "circle"> 59 - Criação De Formulário Simples</li>
+        <li type = "circle"> 60 - Novos input type: tel, email, url</li>
     </ul>
 
 </ul>
