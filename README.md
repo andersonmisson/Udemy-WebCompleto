@@ -105,6 +105,7 @@
         <li type = "circle"> 62 - Adicionar Placeholder e Autofocus</li>
         <li type = "circle"> 63 - Acicionar um campo de número</li>
         <li type = "circle"> 64 - Adicionar um campo Date</li>
+        <li type = "circle"> 65 - Adicionar um campo Datalist e input</li>
     </ul>
 
 </ul>
