@@ -120,5 +120,6 @@
     <ul>
         <li type = "circle"> 79 - Como Aplicar o CSS no HTML </li>
         <li type = "circle"> 80 - CSS Inline </li>
+        <li type = "circle"> 81 - CSS Externo </li>
     </ul>
 </ul>
