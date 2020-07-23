@@ -112,3 +112,12 @@
     </ul>
 
 </ul>
+
+## Capítulo 02 - CSS
+
+<ul>
+    <li> Unidade 03 - Conceitos Básicos</li>
+    <ul>
+        <li type = "circle"> 79 - Como Aplicar o CSS no HTML </li>
+    </ul>
+</ul>
