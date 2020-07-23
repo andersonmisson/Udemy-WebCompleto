@@ -106,6 +106,9 @@
         <li type = "circle"> 63 - Acicionar um campo de número</li>
         <li type = "circle"> 64 - Adicionar um campo Date</li>
         <li type = "circle"> 65 - Adicionar um campo Datalist e input</li>
+        <li type = "circle"> 66 - Adicionar um type range</li>
+        <li type = "circle"> 67 - Adicionar um type color</li>
+        <li type = "circle"> 68 - Adicionar um type search</li>
     </ul>
 
 </ul>
