@@ -103,6 +103,8 @@
         <li type = "circle"> 60 - Novos input type: tel, email, url</li>
         <li type = "circle"> 61 - Adicionar Campos Requeridos</li>
         <li type = "circle"> 62 - Adicionar Placeholder e Autofocus</li>
+        <li type = "circle"> 63 - Acicionar um campo de número</li>
+        <li type = "circle"> 64 - Adicionar um campo Date</li>
     </ul>
 
 </ul>
