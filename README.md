@@ -128,5 +128,6 @@
     <ul>
         <li type = "circle"> 83 - System fonts x Web fonts </li>
         <li type = "circle"> 84 - Formatando o texto </li>
+        <li type = "circle"> 85 - Espaçamento entre linhas e palavras </li>
     </ul>
 </ul>
