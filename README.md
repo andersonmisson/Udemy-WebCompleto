@@ -130,4 +130,16 @@
         <li type = "circle"> 84 - Formatando o texto </li>
         <li type = "circle"> 85 - Espaçamento entre linhas e palavras </li>
     </ul>
+    <br>
+    <li> Unidade 05 - Conceitos Básicos De CSS</li>
+    <ul>
+        <li type = "circle"> 86 - Cores </li>
+        <li type = "circle"> 87 - Box Model </li>
+        <li type = "circle"> 88 - Margin e Padding</li>
+        <li type = "circle"> 89 - Border </li>
+        <li type = "circle"> 90 - Background </li>
+        <li type = "circle"> 91 - Sombra </li>
+        <li type = "circle"> 92 - Gradiente Linear </li>
+        <li type = "circle"> 93 - Gradiente Radial </li>
+    </ul>
 </ul>
